@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi,FREAK 👋
 
-<!--
-**freakethicall/freakethicall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student | Aspiring Penetration Tester  
+📍 Pakistan  
+🔐 Passionate about ethical hacking, network security & building offensive security tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- ✅ PNPT — Practical Network Penetration Tester (TCM Security)
+- ✅ CEH — Certified Ethical Hacker (EC-Council)
+- ✅ CCNA — Cisco Certified Network Associate
+
+---
+
+## What I'm Working On
+- 🔧 Building different projects in Python
+- 🌐 Practicing web app pentesting on **PortSwigger Web Academy**
+- 💻 Grinding machines on **HackTheBox** & **TryHackMe**
+- 📖 Preparing for **OSCP**
+
+---
+
+## Featured Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Network Scanning Toolkit](https://github.com/freakethicall/network-scanning-toolkit) | Automated network recon tool | Python, Nmap, Scapy |
+| [DNS Lookup Tool](https://github.com/freakethicall/dns-lookup) | DNS enumeration & analysis | Python, dnspython |
+
+---
+*"The quieter you become, the more you can hear." — Kali Linux*
